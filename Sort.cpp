@@ -19,4 +19,3 @@ int main()
         cout<<a[i]<<endl;
     }
 }
-© 2021 GitHub, Inc.
